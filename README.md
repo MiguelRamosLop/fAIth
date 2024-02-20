@@ -8,6 +8,9 @@ Health remains the paramount factor impacting people's quality of life, especial
 While Artificial Intelligence (AI) and healthcare have collaborated for years, Machine Learning (ML) algorithms, despite yielding optimal outcomes, often lack transparency, limiting their utility for medical experts in result interpretation. This is where Explainable Artificial Intelligence (XAI) emerges, offering superior performance coupled with transparent result elucidation, striking a balance between accurate predictions and comprehensible information for specialists.
 Hence, the proposed solution focuses on amalgamating high-performing ML algorithms with XAI techniques to deliver precise predictions bolstered by explicit explanations. This fusion creates a robust AI, empowering specialists with valuable support and strengthening their trustworthiness.
 
+fAIth.ipynb contains the resumed workflow (oriented to a better visualization) 
+fAIth - Complete.ipynb contains the completed workflow implementation
+
 ---
 ### AI Workflow
 
