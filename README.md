@@ -2,6 +2,8 @@
 
 ## Contributor: Miguel Ramos López
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/MiguelRamosLop/fAIth)
+
 ---
 ### Abstract
 Health remains the paramount factor impacting people's quality of life, especially amid current challenges. The imperative to enhance healthcare continually underscores the need for accessible and innovative medical solutions. 
